@@ -5,7 +5,7 @@ import "./ProductList.css";
 
 function ProductList() {
   return (
-    <div className=".product-container">
+    <div className="product-container">
       {products.map((product) => (
         <ProductCard key={product.id} product={product} />
       ))}
