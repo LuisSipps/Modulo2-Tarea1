@@ -11,3 +11,7 @@
     width: 100%;
     border-radius: 6px;
 }
+
+.stylo-card h2{
+    font-size: 1.2rem;
+}

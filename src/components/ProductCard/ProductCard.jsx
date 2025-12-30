@@ -8,7 +8,7 @@ function ProductCard({ product }) {
         src={product.image} 
         alt={product.name} 
       />
-      <h2 style={{ fontSize: "1.2rem" }}>{product.name}</h2>
+      <h2>{product.name}</h2>
       <p>{product.descripcion}</p>
       <p><strong>Categoria:</strong> {product.category}</p>
       <p><strong>Precio:</strong> ${product.price}</p>
