@@ -6,7 +6,10 @@ function Header() {
 
   return (
     <header className="header">
-      <h1>Este es el header</h1>
+      <div className="header-content">
+        <div className="header-logo">Logo</div>
+        <div className="header-store-name">Nombre de tienda</div>
+      </div>
       <SearchBar />
     </header>
   );
