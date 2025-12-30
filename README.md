@@ -1,8 +1,29 @@
-# React + Vite
+# Chity Serigrafía E-Commerce
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esta es una página Web orientada a la venta de ropa personalizada con el arte de la serigrafía textil, la cual consiste en el uso de una técnica de estampado 
+a partir de malla tensada, tinta y calor, la cual genera prendas con estampados más duraderos, colores más vivos, en distintos tipos de prendas o tejidos.
 
-Currently, two official plugins are available:
+---
+
+## COMPONENTES CREADOS
+
+- HEADER
+- SEARCHBAR
+- PRODUCTCARD
+- PRODUCTLIST
+- FOOTER
+
+---
+
+## INSTRUCCIONES DE INSTALCIÓN
+
+---
+
+## TECNOLOGÍAS USADAS
+
+---
+
+## CAPTURAS
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
