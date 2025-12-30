@@ -8,7 +8,7 @@ function Header() {
     <header className="header">
       <div className="header-content">
         <div className="header-logo">Logo</div>
-        <div className="header-store-name">Nombre de tienda</div>
+        <div className="header-store-name">Chity Serigrafía</div>
       </div>
       <SearchBar />
     </header>
