@@ -1,82 +1,82 @@
 [
   {
     "id": 1,
-    "name": "Camiseta deportiva",
+    "name": "Polera de anime",
     "price": 25.99,
-    "image": "camiseta.jpg",
-    "descripcion": "Camiseta ligera y cómoda para deportes.",
+    "image": "polera.jpg",
+    "descripcion": "Polera de algodón, con seigrafia de anime.",
     "category": "Ropa"
   },
   {
     "id": 2,
-    "name": "Zapatillas running",
-    "price": 59.99,
-    "image": "zapatillas.jpg",
-    "descripcion": "Zapatillas diseñadas para máximo confort al correr.",
-    "category": "Calzado"
+    "name": "Bolso de tela",
+    "price": 19.99,
+    "image": "totebag.jpg",
+    "descripcion": "Bolsa de tela 100% algodón.",
+    "category": "Accesorios"
   },
   {
     "id": 3,
-    "name": "Mochila urbana",
-    "price": 35.50,
-    "image": "mochila.jpg",
-    "descripcion": "Mochila resistente al agua y con múltiples compartimentos.",
+    "name": "Gorra personalizada",
+    "price": 15.50,
+    "image": "gorra.jpg",
+    "descripcion": "Gorra ajustable.",
     "category": "Accesorios"
   },
   {
     "id": 4,
-    "name": "Reloj inteligente",
-    "price": 129.99,
-    "image": "reloj.jpg",
-    "descripcion": "Reloj con monitor de actividad, notificaciones y GPS.",
-    "category": "Tecnología"
-  },
-  {
-    "id": 5,
-    "name": "Auriculares inalámbricos",
-    "price": 79.90,
-    "image": "auriculares.jpg",
-    "descripcion": "Auriculares con cancelación de ruido y gran autonomía.",
-    "category": "Tecnología"
-  },
-  {
-    "id": 6,
-    "name": "Chaqueta impermeable",
-    "price": 49.99,
-    "image": "chaqueta.jpg",
-    "descripcion": "Chaqueta ligera, ideal para lluvia y viento.",
+    "name": "Poleron con capucha",
+    "price": 39.99,
+    "image": "poleron.jpg",
+    "descripcion": "Poleron de algodón, con diseño anime.",
     "category": "Ropa"
   },
   {
-    "id": 7,
-    "name": "Gorra deportiva",
-    "price": 15.00,
-    "image": "gorra.jpg",
-    "descripcion": "Gorra ajustable, perfecta para correr o entrenar.",
+    "id": 5,
+    "name": "Poleron con capucha",
+    "price": 39.99,
+    "image": "poleron.jpg",
+    "descripcion": "Poleron de algodón, con diseño anime.",
+    "category": "Ropa"
+  },
+  {
+    "id": 6,
+    "name": "Mochila personalizada",
+    "price": 29.99,
+    "image": "mochila.jpg",
+    "descripcion": "Mochila resistente.",
     "category": "Accesorios"
   },
   {
+    "id": 7,
+    "name": "Poleron con capucha",
+    "price": 39.99,
+    "image": "poleron.jpg",
+    "descripcion": "Poleron de algodón, con diseño anime.",
+    "category": "Ropa"
+  },
+  {
     "id": 8,
-    "name": "Pantalones de entrenamiento",
-    "price": 29.99,
-    "image": "pantalones.jpg",
-    "descripcion": "Pantalones cómodos, transpirables y elásticos.",
+    "name": "Polera de manga larga anime",
+    "price": 27.99,
+    "image": "polera_manga_larga.jpg",
+    "descripcion": "Polera manga larga de algodón.",
     "category": "Ropa"
   },
   {
     "id": 9,
-    "name": "Bolso de viaje",
-    "price": 65.00,
-    "image": "bolso.jpg",
-    "descripcion": "Bolso espacioso con compartimentos para organizar tus cosas.",
-    "category": "Accesorios"
+    "name": "Polera de anime",
+    "price": 25.99,
+    "image": "polera.jpg",
+    "descripcion": "Polera de algodón, con seigrafia de anime.",
+    "category": "Ropa"
   },
   {
     "id": 10,
-    "name": "Botella de agua reutilizable",
-    "price": 12.50,
-    "image": "botella.jpg",
-    "descripcion": "Botella de acero inoxidable, ideal para deporte y viajes.",
-    "category": "Accesorios"
+    "name": "Polera de anime",
+    "price": 25.99,
+    "image": "polera.jpg",
+    "descripcion": "Polera de algodón, con seigrafia de anime.",
+    "category": "Ropa"
   }
 ]
