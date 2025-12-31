@@ -1,7 +1,7 @@
 .footer {
   width: 100%;
   padding: 1rem;
-  background-color: #555;
+  background-color: #37947d;
   color: white;
   padding: 32px 16px;
 }
@@ -40,7 +40,7 @@
 }
 
 .footer-copyright{
-  background-color: #1f1f1f;
+  background-color: #294652;
   text-align: center;
   padding: 12px;
   font-size: 14px;
