@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Polera de anime",
     "price": 25.99,
-    "image": "polera_manga_larga_blanca.png",
+    "image": "polera_manga_larga_blanca",
     "descripcion": "Polera de algodón, con seigrafia de anime.",
     "category": "Ropa"
   },
