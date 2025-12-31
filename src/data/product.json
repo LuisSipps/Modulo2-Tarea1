@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Polera de anime",
+    "name": "Polera de anime Kimetsu",
     "price": 25.99,
     "image": "polera_manga_corta_negra",
     "descripcion": "Polera de algodón con serigrafía de anime.",
@@ -9,23 +9,23 @@
   },
   {
     "id": 2,
-    "name": "Bolso de tela",
+    "name": "Polera de anime Evangelion",
     "price": 19.99,
-    "image": "totebag",
-    "descripcion": "Bolsa de tela 100% algodón.",
-    "category": "Accesorios"
+    "image": "polera_manga_corta_negra_evangelion",
+    "descripcion": "Polera de algodón con serigrafía de anime.",
+    "category": "Ropa"
   },
   {
     "id": 3,
-    "name": "Gorra personalizada",
+    "name": "Polera de anime manga larga Evangelion",
     "price": 15.5,
-    "image": "gorra",
-    "descripcion": "Gorra ajustable.",
-    "category": "Accesorios"
+    "image": "polera_manga_larga_blanca_evangelion",
+    "descripcion": "Polera de algodón con serigrafía de anime.",
+    "category": "Ropa"
   },
   {
     "id": 4,
-    "name": "Polerón con capucha",
+    "name": "Polerón con capucha Kimetsu",
     "price": 39.99,
     "descripcion": "Polerón de algodón con diseño anime.",
     "category": "Ropa",
@@ -35,8 +35,8 @@
     ]
   },
   {
-    "id": 8,
-    "name": "Polera manga larga anime",
+    "id": 5,
+    "name": "Polera manga larga Kimetsu",
     "price": 27.99,
     "image": "polera_manga_larga_blanca",
     "descripcion": "Polera manga larga de algodón.",

@@ -1,6 +1,7 @@
 import { useState } from "react";
 import "./ProductCard.css";
 import { images } from "../../assets/images/images";
+import VariantButton from "../VariantButton/VariantButton.jsx";
 
 function ProductCard({ product }) {
   const hasVariants = Array.isArray(product.variants) && product.variants.length > 0;
@@ -29,12 +30,13 @@ function ProductCard({ product }) {
       {hasVariants && (
         <div className="variant-buttons">
           {product.variants.map((variant) => (
-            <button
+                        
+            <VariantButton
               key={variant.color}
-              onClick={() => setSelectedVariant(variant)}
-            >
-              {variant.color}
-            </button>
+              variant={variant}
+              isSelected={selectedVariant.color === variant.color}
+              onSelect={setSelectedVariant}
+            />
           ))}
         </div>
       )}
