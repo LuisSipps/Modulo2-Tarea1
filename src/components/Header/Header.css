@@ -34,10 +34,3 @@
   max-height: 100%;
   object-fit: contain;
 }
-
-.header-store-name{
-    background-color: white;
-    padding: 12px 16px;
-    border-radius: 10px;
-    color: black;
-}

@@ -12,7 +12,6 @@ function Header() {
           {console.log("IMAGES:", images)}
           <img src={images.logo} alt="Chity Serigrafía" />
         </div>
-        <div className="header-store-name">Chity Serigrafía</div>
       </div>
       <SearchBar />
     </header>
