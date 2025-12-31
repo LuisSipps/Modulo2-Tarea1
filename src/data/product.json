@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Polera de anime",
     "price": 25.99,
-    "image": "polera_manga_larga_blanca",
+    "image": "polera_manga_corta_negra",
     "descripcion": "Polera de algodón, con seigrafia de anime.",
     "category": "Ropa"
   },
@@ -27,9 +27,12 @@
     "id": 4,
     "name": "Poleron con capucha",
     "price": 39.99,
-    "image": "poleron_blanco",
     "descripcion": "Poleron de algodón, con diseño anime.",
-    "category": "Ropa"
+    "category": "Ropa",
+    "variants":[
+      {"color": "Blanco", "image": "poleron_blanco"},
+      {"color": "Negro", "image": "poleron_negro"}
+    ]
   },
   {
     "id": 5,
