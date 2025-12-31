@@ -27,7 +27,7 @@
     "id": 4,
     "name": "Poleron con capucha",
     "price": 39.99,
-    "image": "poleron_blanco.png",
+    "image": "poleron_blanco",
     "descripcion": "Poleron de algodón, con diseño anime.",
     "category": "Ropa"
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "name": "Poleron con capucha",
     "price": 39.99,
-    "image": "poleron_blanco.png",
+    "image": "poleron_blanco",
     "descripcion": "Poleron de algodón, con diseño anime.",
     "category": "Ropa"
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "name": "Poleron con capucha",
     "price": 39.99,
-    "image": "poleron_negro.jpg",
+    "image": "poleron_negro",
     "descripcion": "Poleron de algodón, con diseño anime.",
     "category": "Ropa"
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "name": "Polera de manga larga anime",
     "price": 27.99,
-    "image": "polera_manga_larga_blanca.png",
+    "image": "polera_manga_larga_blanca",
     "descripcion": "Polera manga larga de algodón.",
     "category": "Ropa"
   },
