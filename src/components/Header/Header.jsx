@@ -12,8 +12,10 @@ function Header() {
           {console.log("IMAGES:", images)}
           <img src={images.logo} alt="Chity Serigrafía" />
         </div>
-        <div>Productos</div>
-        <div>Animes</div>
+        <nav className="menu">
+          <a href="#" class="menu-item"> Productos </a>
+          <a href="#" class="menu-item"> Animes </a>
+        </nav>
       </div>
       <SearchBar />
     </header>
