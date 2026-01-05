@@ -1,16 +1,16 @@
 import { useState } from "react";
 import "./ProductCard.css";
 import { images } from "../../assets/images/images";
-import VariantButton from "../VariantButton/VariantButton.jsx";
+import VariantButton from "../VariantButton/VariantButton.jsx"; // Componente importado del boton para elegir colores
 
 function ProductCard({ product }) {
-  const hasVariants = Array.isArray(product.variants) && product.variants.length > 0;
+  const hasVariants = Array.isArray(product.variants) && product.variants.length > 0; /* Duelve true si variants existe es un array y tiene al menos un elemento*/
 
-  const [selectedVariant, setSelectedVariant] = useState(
+  const [selectedVariant, setSelectedVariant] = useState( /* Si existen variantes pone la primera por defecto, sino Null */
     hasVariants ? product.variants[0] : null
   );
 
-  const imageSrc = hasVariants
+  const imageSrc = hasVariants  /* Si hay variantes usa la imagen de la variante, si no solo pone la imagen del producto */
     ? images[selectedVariant.image]
     : images[product.image];
 
@@ -27,10 +27,10 @@ function ProductCard({ product }) {
       <p><strong>Categoría:</strong> {product.category}</p>
       <p><strong>Precio:</strong> ${product.price}</p>
 
-      {hasVariants && (
+      {hasVariants && ( /* Se renderizan los botones si existen variantes */
         <div className="variant-buttons">
           {product.variants.map((variant) => (
-                        
+
             <VariantButton
               key={variant.color}
               variant={variant}
