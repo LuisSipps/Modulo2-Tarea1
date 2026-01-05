@@ -1,8 +1,8 @@
 import SearchBar from "../SearchBar/SearchBar.jsx";
-import "./Header.css";
 import { images } from "../../assets/images/images.js";
+import "./Header.css";
 
-function Header() {
+function Header({onSearch}) {
   console.log("Header renderizado");
 
   return (
@@ -13,11 +13,11 @@ function Header() {
           <img src={images.logo} alt="Chity Serigrafía" />
         </div>
         <nav className="menu">
-          <a href="#" class="menu-item"> Productos </a>
-          <a href="#" class="menu-item"> Animes </a>
+          <a href="#" className="menu-item"> Productos </a>
+          <a href="#" className="menu-item"> Animes </a>
         </nav>
       </div>
-      <SearchBar />
+      <SearchBar onSearch={onSearch}/>
     </header>
   );
 }

@@ -41,5 +41,32 @@
     "image": "polera_manga_larga_blanca",
     "descripcion": "Polera manga larga de algodón.",
     "category": "Ropa"
+  },
+  {
+    "id": 6,
+    "name": "Polera de anime Kimetsu",
+    "price": 25.99,
+    "image": "polera_manga_corta_negra",
+    "descripcion": "Polera de algodón con serigrafía de anime.",
+    "category": "Ropa"
+  },
+  {
+    "id": 7,
+    "name": "Polerón con capucha Kimetsu",
+    "price": 39.99,
+    "descripcion": "Polerón de algodón con diseño anime.",
+    "category": "Ropa",
+    "variants": [
+      { "color": "Blanco", "image": "poleron_blanco" },
+      { "color": "Negro", "image": "poleron_negro" }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Polera manga larga Kimetsu",
+    "price": 27.99,
+    "image": "polera_manga_larga_blanca",
+    "descripcion": "Polera manga larga de algodón.",
+    "category": "Ropa"
   }
 ]
