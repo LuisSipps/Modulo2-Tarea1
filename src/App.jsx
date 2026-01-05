@@ -15,9 +15,7 @@ function App() {
   return (
     <>
       <Header onSearch={setSearchTerm}/>
-      {
-
-      }
+      {}
       <div>
         <h1 style={{ textAlign: "center" }}>Tienda Online</h1>
         {/* <ProductList /> */}
