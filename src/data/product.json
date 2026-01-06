@@ -10,10 +10,13 @@
   {
     "id": 2,
     "name": "Polera de anime Evangelion",
-    "price": 19.99,
-    "image": "polera_manga_corta_negra_evangelion",
+    "price": 28.99,
     "descripcion": "Polera de algodón con serigrafía de anime.",
-    "category": "Ropa"
+    "category": "Ropa",
+    "variants": [
+      { "color": "Blanco", "image": "polera_manga_corta_evangelion" },
+      { "color": "Negro", "image": "polera_manga_corta_negra_evangelion" }
+    ]
   },
   {
     "id": 3,

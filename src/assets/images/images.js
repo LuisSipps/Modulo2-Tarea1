@@ -1,5 +1,7 @@
 import poleraMangaCortaNegra from "./polera_manga_corta_negra.png"
+import poleraMangaCortaNegraEva from "./polera_manga_corta_negra_evangelion.png";
 import poleraMangaLarga from "./polera_manga_larga_blanca.png";
+import poleraMangaCortaBlancaEva from "./polera_manga_corta_evangelion.png";
 import poleronBlanco from "./poleron_blanco.png";
 import poleronNegro from "./poleron_negro.png";
 import logo from "./chity_serigrafia_logo.png";
@@ -9,7 +11,8 @@ export const images = {
     polera_manga_larga_blanca: poleraMangaLarga,
     poleron_blanco: poleronBlanco,
     poleron_negro: poleronNegro,
-
+    polera_manga_corta_negra_evangelion: poleraMangaCortaNegraEva,
+    polera_manga_corta_evangelion: poleraMangaCortaBlancaEva,
     logo,
 
 };
