@@ -47,6 +47,21 @@ npm run dev
 
 ## TECNOLOGÍAS USADAS
 
+- React.js -> Libreria Robusta de JavaScript para la construccion de aplicaciones web
+- JavaScript -> Lenguaje de programación que permite crear contenido dinámico (lógica y manejo de estados)
+- Vite --> Herramienta de compilación que permite una experiencia de desarrollo más rápida
+- CSS3 --> Lenguaje de estilos y diseño
+- Html5 --> Lenguaje de etiquetas que permiten darle estructura a un proyecto web
+- Node.js --> Entorno de ejecición de Js que permite crear servidores, aplicaciones web, lineas de comando 
+- Git & GitHub --> Software de control de versiones
 ---
 
-## CAPTURAS
+## CAPTURAS DE LA PÁGINA WEB Y DEL BUSCADOR FUNCIONANDO
+
+![Vista superior del catálogo de productos de serigrafía](./src/assets/images/captura-home.png)
+
+![Vista inferior del catálogo junto al footer](./src/assets/images/captura-footer.png)
+
+![Búsqueda en el SearchBar a través de la palabra clave "bolsa"](./src/assets/images/ejemplo-buscador1.png)
+
+![Búsqueda en el SearchBar a través de la palabra clave "Kimetsu" el cual es un anime en particular](./src/assets/images/ejemplo-buscador2.png)
