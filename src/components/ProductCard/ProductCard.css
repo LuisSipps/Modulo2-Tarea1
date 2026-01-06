@@ -15,4 +15,7 @@
 
 .stylo-card h2{
     font-size: 1.2rem;
+    background-color: #b40052;
+    border-radius: 8px;
+    color: white;
 }
