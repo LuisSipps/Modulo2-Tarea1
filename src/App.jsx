@@ -13,7 +13,7 @@ function App() {
     <>
       <Header onSearch={setSearchTerm}/> {/* comunicación de setSearchTerm y el Header */}
       <div>
-        <h1 style={{ textAlign: "center" }}> Catálogo Online </h1>
+        <h1> Catálogo Online </h1>
         <ProductList products={products} searchTerm={searchTerm} /> {/* ProductList decide que mostrar filtrando productos y lo que se escribe */}
       </div>
       <Footer />

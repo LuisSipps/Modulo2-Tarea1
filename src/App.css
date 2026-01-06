@@ -12,6 +12,11 @@
   font-style: normal;
 }
 
+h1{
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
