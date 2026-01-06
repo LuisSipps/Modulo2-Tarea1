@@ -8,6 +8,9 @@ import poleronNegro from "./poleron_negro.png";
 import logo from "./chity_serigrafia_logo.png";
 import bolsaPucca from "./bolsa_pucca.png";
 import bolsaCsm from "./bolsa_csm.png";
+import poleronSpyBlanco from "./poleron_spy_family_blanco.png";
+import poleronSpyNegro from "./poleron_spy_family_negro.png";
+import poleraGengar from "./polera_pokemon_gengar.png";
 
 export const images = {
     polera_manga_corta_negra: poleraMangaCortaNegra,
@@ -20,4 +23,7 @@ export const images = {
     logo,
     bolsa_pucca: bolsaPucca,
     bolsa_csm: bolsaCsm,
+    poleron_spy_family_blanco: poleronSpyBlanco,
+    poleron_spy_family_negro:poleronSpyNegro,
+    polera_pokemon_gengar: poleraGengar,
 };

@@ -55,13 +55,13 @@
   },
   {
     "id": 7,
-    "name": "Polerón con capucha Kimetsu",
+    "name": "Polerón con capucha Spy Family",
     "price": 39.99,
     "descripcion": "Polerón de algodón con diseño anime.",
     "category": "Ropa",
     "variants": [
-      { "color": "Blanco", "image": "poleron_blanco" },
-      { "color": "Negro", "image": "poleron_negro" }
+      { "color": "Blanco", "image": "poleron_spy_family_blanco" },
+      { "color": "Negro", "image": "poleron_spy_family_negro" }
     ]
   },
   {
@@ -71,5 +71,13 @@
     "image": "bolsa_pucca",
     "descripcion": "Bolsa resistente de género con estampado de la serie animada Pucca",
     "category": "Accesorio"
+  },
+  {
+    "id": 9,
+    "name": "Polera de Pokemón Gengar",
+    "price": 15.90,
+    "image": "polera_pokemon_gengar",
+    "descripcion": "Polera negra de algodón con estampado del Pokemón Gengar",
+    "category": "Ropa"
   }
 ]
