@@ -11,11 +11,37 @@ a partir de malla tensada, tinta y calor, la cual genera prendas con estampados 
 - SEARCHBAR
 - PRODUCTCARD
 - PRODUCTLIST
+- VARIANTBUTTON
 - FOOTER
 
 ---
 
 ## INSTRUCCIONES DE INSTALCIÓN
+
+i.- Primero que todo verificar si se tiene instalado Git en tu computadora. 
+Por lo cual iremos a nuestra barra de búsqueda y abriremos el CMD o simbolo de sistema en modo administrador.
+y pegaremos lo siguiente: git --version
+
+    ia.- Si no nos aparece una versión en la consola, tendremos que dirigirnos a la siguiente url https://git-scm.com/install/windows
+    caso contrario seguir con el paso ii. 
+
+ii.- Ahora con Git instalado abriremos la aplicación Visual studio y vamos a presionar ctrl shift P
+
+iii.- Vamos a escribir en el buscador git: clone 
+
+iv.- Lo siguiente será pegar la url del repositorio que queremos clonar
+en este caso será https://github.com/LuisSipps/Modulo2-Tarea1.git
+
+v.- Siguiente paso sera elegir la carpeta de destino y aceptar.
+
+vi.- Ahora volveremos a abrir nuestro CMD o símbolo de sistema en modo administrador, y mediante comandos deberemos llegar a la carpeta 
+que contenga nuestro proyecto clonado.
+
+vii Una vez dentro de nuestro proyecto tendremos que instalar las dependencias (npm) mediante el comando:
+npm install
+
+viii.- Una vez instaladas las dependecias desplegaremos nuestro proyecto con el comando:
+npm run dev
 
 ---
 
@@ -24,16 +50,3 @@ a partir de malla tensada, tinta y calor, la cual genera prendas con estampados 
 ---
 
 ## CAPTURAS
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
-
-Note: This will impact Vite dev & build performances.
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
