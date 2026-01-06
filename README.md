@@ -25,7 +25,7 @@ y pegaremos lo siguiente: git --version
     ia.- Si no nos aparece una versión en la consola, tendremos que dirigirnos a la siguiente url https://git-scm.com/install/windows
     caso contrario seguir con el paso ii. 
 
-ii.- Ahora con Git instalado abriremos la aplicación Visual studio y vamos a presionar ctrl shift P
+ii.- Ahora con Git instalado abriremos la aplicación Visual studio y vamos a presionar Ctrl + Shift + P
 
 iii.- Vamos a escribir en el buscador git: clone 
 
@@ -34,14 +34,21 @@ en este caso será https://github.com/LuisSipps/Modulo2-Tarea1.git
 
 v.- Siguiente paso sera elegir la carpeta de destino y aceptar.
 
-vi.- Ahora volveremos a abrir nuestro CMD o símbolo de sistema en modo administrador, y mediante comandos deberemos llegar a la carpeta 
-que contenga nuestro proyecto clonado.
+vi.- Ahora volveremos a abrir nuestro CMD o símbolo de sistema en modo administrador, y mediante comandos deberemos llegar a la carpeta que contenga nuestro proyecto clonado. (Recomenadación: Escribir dir en el CMD para comprobar que exista el archivo package.json y así verificar que estamos en la ruta correcta).
 
 vii Una vez dentro de nuestro proyecto tendremos que instalar las dependencias (npm) mediante el comando:
 npm install
 
 viii.- Una vez instaladas las dependecias desplegaremos nuestro proyecto con el comando:
 npm run dev
+
+ix.- Ahora nos aparecerá algo similar a esto http://localhost:5173/ 
+Lo copiaremos y pegaremos en nuestro navegador y se deberia ver nuestra página web.
+
+x.- SÓLO SI QUIERES CREAR UNA NUEVA RAMA
+    xa.- Abre una terminal nueva en Visual Studio, en Terminal --> New Terminal
+    xb.- Escribimos en la terminal git checkout -b NombreNuevaRama
+    xc.- Ahora para crear la rama en Git/GitHub escribimos git push -u origin NombreNuevaRama
 
 ---
 
