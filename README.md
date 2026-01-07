@@ -8,12 +8,12 @@ a partir de malla tensada, tinta y calor, la cual genera prendas con estampados 
 
 ## COMPONENTES CREADOS
 
-- HEADER
-- SEARCHBAR
-- PRODUCTCARD
-- PRODUCTLIST
-- VARIANTBUTTON
-- FOOTER
+- HEADER:  Sección superior de la pagina web con el logo, nombre, etc.
+- SEARCHBAR: Barra de búsqueda ubicada en el Header, la cual filtra el catálogo según lo que se escriba.
+- PRODUCTCARD: Componente con la información escencial de un producto, imagen, nombre, descripcion, precio, etc.
+- PRODUCTLIST: Componente que administra de manera individual los productos.
+- VARIANTBUTTON: Componente botón que se muetra sólo si un producto tiene más de un color
+- FOOTER: Sección inferior de la pagina web, con diversos datos y detalles del E-commerce
 
 ---
 
