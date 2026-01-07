@@ -1,4 +1,5 @@
 # Chity Serigrafía E-Commerce
+## Luis Sepúlveda Villarroel
 
 Esta es una página Web orientada a la venta de ropa personalizada con el arte de la serigrafía textil, la cual consiste en el uso de una técnica de estampado 
 a partir de malla tensada, tinta y calor, la cual genera prendas con estampados más duraderos, colores más vivos, en distintos tipos de prendas o tejidos.
